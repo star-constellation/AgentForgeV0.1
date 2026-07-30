@@ -19,26 +19,15 @@ Current V0.1 features:
 * Prompt optimization
 * Documentation generation
 
-## Project Structure
-* AgentForgeV0.1
-main.py,
-agentforge.py,
-tools.py,
-prompts/
-agentforge_instructions.txt,
-.env.examplerequirements.txt,
-README.md
-
-
 ## Installation
 Clone the repository:
-git clone <repository-url>;
-cd AgentForgeV0.1;
+git clone <repository-url>
+cd AgentForgeV0.1
 
 ## Create virtual environment
-python -m venv .venv;
-Linux:;
-source .venv/bin/activate;
+python -m venv .venv
+Linux:
+source .venv/bin/activate
 # Install dependencies:
 pip install -r requirements.txt
 
@@ -49,17 +38,17 @@ Add your API key:
 OPENAI_API_KEY=your_api_key_here
 
 ## Usage
-Run AgentForge:;
+Run AgentForge:
 python main.py
 
 # Example:
-=^ AgentForge V0.1 ^=;
+=^ AgentForge V0.1 ^=
 
-What agent do you want to create?;
+What agent do you want to create?
 > Create a Linux ricing assistant
 
 ##Current Limitations
-V0.1 is an early prototype.;
+V0.1 is an early prototype.
 
 #Limitations:
 * Tools are currently simple implementations

@@ -27,7 +27,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 ## Environment Setup
-# Create a .env file:
+* Create a .env file:
 * cp .env.example .env
 * Add your API key:
 * OPENAI_API_KEY=your_api_key_here

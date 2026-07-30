@@ -9,9 +9,9 @@ AgentForge helps design AI agents by analyzing:
 * Limitations
 * Evaluation methods
 
-## Features
+# Features
 
-# Current V0.1 features:
+## Current V0.1 features:
 
 * User goal analysis
 * Basic agent blueprint generation
@@ -25,16 +25,16 @@ AgentForge helps design AI agents by analyzing:
 # Install dependencies:
 pip install -r requirements.txt
 
-## Environment Setup
+# Environment Setup
 * Create a .env file:
 * cp .env.example .env
 * Add your API key:
 * OPENAI_API_KEY=your_api_key_here
  
-## Run/Execute
+# Run/Execute
 python main.py
 
-# Example:
+## Example:
 =^ AgentForge V0.1 ^=
 
 What agent do you want to create?

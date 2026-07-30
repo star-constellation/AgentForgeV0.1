@@ -11,7 +11,7 @@ AgentForge helps design AI agents by analyzing:
 
 ## Features
 
-Current V0.1 features:
+# Current V0.1 features:
 
 * User goal analysis
 * Basic agent blueprint generation
@@ -27,24 +27,24 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 ## Environment Setup
-#Create a .env file:
----cp .env.example .env
----Add your API key:
----OPENAI_API_KEY=your_api_key_her
-## Usage
-Run AgentForge: 
+# Create a .env file:
+* cp .env.example .env
+* Add your API key:
+* OPENAI_API_KEY=your_api_key_here
+ 
+## Run/Execute
 python main.py
 
-# Example:
+# Exampl:
 =^ AgentForge V0.1 ^=
 
 What agent do you want to create?
 > Create a Linux ricing assistant
 
-##Current Limitations
+## Current Limitations
 V0.1 is an early prototype.
 
-#Limitations:
+# Limitations:
 * Tools are currently simple implementations
 * No long-term memory system
 * No multi-agent collaboration

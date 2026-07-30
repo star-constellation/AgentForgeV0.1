@@ -20,8 +20,8 @@ AgentForge helps design AI agents by analyzing:
 * Documentation generation
 
 ## Create virtual environment
-python -m venv .venv
-Linux:
+ python -m venv .venv
+* Linux:
 source .venv/bin/activate
 # Install dependencies:
 pip install -r requirements.txt

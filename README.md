@@ -20,16 +20,14 @@ Current V0.1 features:
 * Documentation generation
 
 ## Project Structure
-AgentForgeV0.1/
-│
-├── main.py
-├── agentforge.py
-├── tools.py
-├── prompts/
-│ └── agentforge_instructions.txt
-├── .env.example
-├── requirements.txt
-└── README.md
+* AgentForgeV0.1
+main.py,
+agentforge.py,
+tools.py,
+prompts/
+agentforge_instructions.txt,
+.env.examplerequirements.txt,
+README.md
 
 
 ## Installation

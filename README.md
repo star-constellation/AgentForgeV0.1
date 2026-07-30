@@ -20,9 +20,8 @@ AgentForge helps design AI agents by analyzing:
 * Documentation generation
 
 ## Create virtual environment
- python -m venv .venv
-* Linux:
-source .venv/bin/activate
+* python -m venv .venv
+* source .venv/bin/activate
 # Install dependencies:
 pip install -r requirements.txt
 
@@ -35,7 +34,7 @@ pip install -r requirements.txt
 ## Run/Execute
 python main.py
 
-# Exampl:
+# Example:
 =^ AgentForge V0.1 ^=
 
 What agent do you want to create?
@@ -44,7 +43,7 @@ What agent do you want to create?
 ## Current Limitations
 V0.1 is an early prototype.
 
-# Limitations:
+ Limitations:
 * Tools are currently simple implementations
 * No long-term memory system
 * No multi-agent collaboration

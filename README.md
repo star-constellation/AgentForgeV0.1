@@ -19,11 +19,6 @@ Current V0.1 features:
 * Prompt optimization
 * Documentation generation
 
-## Installation
-Clone the repository:
-git clone <repository-url>
-cd AgentForgeV0.1
-
 ## Create virtual environment
 python -m venv .venv
 Linux:
@@ -33,12 +28,11 @@ pip install -r requirements.txt
 
 ## Environment Setup
 #Create a .env file:
-cp .env.example .env
-Add your API key:
-OPENAI_API_KEY=your_api_key_here
-
+---cp .env.example .env
+---Add your API key:
+---OPENAI_API_KEY=your_api_key_her
 ## Usage
-Run AgentForge:
+Run AgentForge: 
 python main.py
 
 # Example:

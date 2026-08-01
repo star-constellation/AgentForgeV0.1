@@ -23,7 +23,9 @@ AgentForge helps design AI agents by analyzing:
 * python -m venv .venv
 * source .venv/bin/activate
 # Install dependencies:
-pip install -r requirements.txt
+pip install -r openai
+pip install -r python-dotenv
+pip install -r rich
 
 # Environment Setup
 * Create a .env file:

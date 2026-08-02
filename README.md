@@ -27,12 +27,14 @@ AgentForge helps design AI agents by analyzing:
 * pip install -r python-dotenv
 * pip install -r rich
 
-# Environment Setup
+# How to run it:
+
+## Environment Setup
 * Create a .env file:
 * cp .env.example .env
 * Add your API key: OPENAI_API_KEY=your_api_key_here
  
-# Run/Execute
+## Run/Execute
 python main.py
 
 ## Example:

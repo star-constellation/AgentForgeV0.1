@@ -41,6 +41,9 @@ python main.py
 What agent do you want to create?
 > Create a Linux ricing assistant
 
+# Recommendation
+Use GPT-5.6 Sol or GPT-5.6 Terra for more efficiency.
+
 ## Current Limitations
 V0.1 is an early prototype.
 
